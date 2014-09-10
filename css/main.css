@@ -19,6 +19,7 @@ html {
 body {
   margin: 0;
   padding: 0;
+  background-color: #fff;
 }
 
 img {
@@ -26,54 +27,19 @@ img {
   width: 100%;
 }
 
-main {
-  margin: 0 auto;
-  width: 500px;
-  background-color: #fff;
-  border-radius: 8px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.3);
-}
-
-
 h1 {
-  margin: 0;
+  padding: 1rem;
   font-size: 1.125rem;
-  line-height: 1.3333;
 }
 
 h2 {
-  margin: 0 0 1.5rem;
-
-  color: lightgrey;
-  font-size: 1rem;
+  color: grey;
+  font-size: 0.8rem;
+  text-transform: uppercase;
 }
 
-p {
-  margin: 0 0 1.5rem;
-  padding: 0;
-}
-
-ul, ol {
-  margin-top: 0;
-  margin-bottom: 1.5rem;
-}
-
-ol {
-  padding-left: 1.5em;
-}
-
-.content {
-  padding: 0 0.8em;
-}
-
-figure {
-  margin: 0 0 1.5rem;
-
-}
-
-figcaption {
-  background-color: #000;
+.caption{
   color: #fff;
-  font-size: 0.7901rem;
-
+  font-style: italic;
+  font-family: serif;
 }
