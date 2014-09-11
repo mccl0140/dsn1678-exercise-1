@@ -58,7 +58,7 @@ img {
   margin: 0;
   color: #fff;
   position: absolute;
-  padding: 1rem;
+  padding: .5rem;
   bottom: 0px;
   font-style: italic;
   font-family: serif;
@@ -74,7 +74,7 @@ img {
 }
 
 .main1{
-  padding: 1rem;
+  padding: .5rem;
   float: left;
   width: 32%;
   box-sizing: border-box;
@@ -82,7 +82,7 @@ img {
 }
 
 .main2{
-  padding: 1rem;
+  padding: .5rem;
   float: left;
   width: 32%;
   box-sizing: border-box;
@@ -90,7 +90,7 @@ img {
 }
 
 .main3{
-  padding: 1rem;
+  padding: .5rem;
   float: left;
   width: 32%;
   box-sizing: border-box;
