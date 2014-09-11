@@ -28,12 +28,12 @@ img {
   width: 100%;
 }
 
-h1 {
+.heading {
   padding: 10px;
   font-size: 1.125rem;
 }
 
-h2 {
+.subtitle {
   color: grey;
   font-size: 0.8rem;
   text-transform: uppercase;
