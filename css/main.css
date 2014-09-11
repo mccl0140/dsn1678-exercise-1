@@ -39,12 +39,12 @@ img {
   text-transform: uppercase;
 }
 
-figure{
+.figure{
   margin:0;
   position: relative;
 }
 
-figcaption{
+.figcaption{
   color: #fff;
   position: absolute;
   bottom: 10px;
