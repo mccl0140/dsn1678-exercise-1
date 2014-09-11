@@ -74,6 +74,7 @@ img {
 }
 
 .main1{
+  padding-left: 1rem;
   padding: .5rem;
   float: left;
   width: 32%;
@@ -83,6 +84,7 @@ img {
 
 .main2{
   padding: .5rem;
+  padding-left: 1rem;
   float: left;
   width: 32%;
   box-sizing: border-box;
@@ -91,6 +93,7 @@ img {
 
 .main3{
   padding: .5rem;
+  padding-left: 1em;
   float: left;
   width: 32%;
   box-sizing: border-box;
